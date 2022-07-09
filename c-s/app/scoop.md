@@ -2,7 +2,7 @@
 title: scoop的介绍安装及使用
 description: 一款windows上的包管理工具
 published: true
-date: 2022-07-09T18:20:59.717Z
+date: 2022-07-09T18:28:29.080Z
 tags: 应用推荐
 editor: markdown
 dateCreated: 2022-07-09T18:14:48.600Z
@@ -66,7 +66,7 @@ which      Locate a shim/executable (similar to 'which' on Linux)
 ```
 在介绍基本的使用前先说说几个基本概念（了解个大概就行了，我也是一知半解，只要知道大体上是个啥东西就不会影响后面的阅读）
 ## bucket
-每个软件都有自己的bucket，而scoop可以有很多bucket，每个bucket管理不同类型的软件
+每个软件都有自己所属的bucket，而scoop可以有很多bucket，每个bucket管理不同类型的软件
 也就是 $\text{app} \in \text{bucket} \in \text{scoop}$
 以`main bucket`下的应用 `git` 为例，使用`scoop cat git`能看到 `git`这个应用存储在bucket中的`manifest`如下
 ```json
