@@ -2,7 +2,7 @@
 title: scoop的介绍安装及使用
 description: 一款windows上的包管理工具
 published: true
-date: 2022-07-09T18:14:48.600Z
+date: 2022-07-09T18:20:59.717Z
 tags: 应用推荐
 editor: markdown
 dateCreated: 2022-07-09T18:14:48.600Z
@@ -12,7 +12,7 @@ dateCreated: 2022-07-09T18:14:48.600Z
 就是让你只需要一行代码就可以自动安装应用的包管理工具，具体可以看看它的[github主页](https://github.com/ScoopInstaller/Scoop)
 
 # 软件安装
-两行代码解决
+使用powershell安装，两行代码解决
 ```
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser  # 选是
 irm get.scoop.sh | iex
