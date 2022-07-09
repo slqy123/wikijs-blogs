@@ -2,7 +2,7 @@
 title: 七叶先生的小站
 description: 
 published: true
-date: 2022-07-09T10:47:37.950Z
+date: 2022-07-09T18:22:03.408Z
 tags: 首页
 editor: markdown
 dateCreated: 2022-07-01T00:28:43.984Z
@@ -15,7 +15,7 @@ dateCreated: 2022-07-01T00:28:43.984Z
 啥东西都会写点，没啥特定的主题。但大致分下来我觉得就分成这几类
 ## 学习相关
 - [有意思的数学题 *作业里的或者无聊想到的*](https://www.baidu.com)
-- [有意思的软件 *上gituhb淘宝系列*](https://www.baidu.com)
+- [有意思的软件 *上gituhb淘宝系列*](/c-s/app/scoop)
 {.links-list}
 
 ## 游戏相关
