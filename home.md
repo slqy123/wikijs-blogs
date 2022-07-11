@@ -2,7 +2,7 @@
 title: 七叶先生的小站
 description: 
 published: true
-date: 2022-07-09T18:22:31.785Z
+date: 2022-07-11T14:02:23.040Z
 tags: 首页
 editor: markdown
 dateCreated: 2022-07-01T00:28:43.984Z
@@ -16,6 +16,7 @@ dateCreated: 2022-07-01T00:28:43.984Z
 ## 学习相关
 - [有意思的数学题 *作业里的或者无聊想到的*](https://www.baidu.com)
 - [有意思的软件 *上gituhb淘宝系列*](/c-s/app/index)
+- [有趣的自动化方案 *能用电脑何必用人脑*](/c-s/auto/index)
 {.links-list}
 
 ## 游戏相关
