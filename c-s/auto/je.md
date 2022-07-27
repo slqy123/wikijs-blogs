@@ -1,9 +1,9 @@
 ---
-title: je
-description: 
+title: 一套从音频到数字谱的自动化方案
+description: 干啥啥不行，偷懒第一名
 published: true
-date: 2022-07-27T15:36:21.899Z
-tags: 
+date: 2022-07-27T15:38:01.033Z
+tags: 自动化, 深度学习
 editor: markdown
 dateCreated: 2022-07-25T10:54:42.748Z
 ---
