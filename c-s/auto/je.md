@@ -2,7 +2,7 @@
 title: 一套从音频到数字谱的自动化方案
 description: 干啥啥不行，偷懒第一名
 published: true
-date: 2022-07-27T15:44:53.371Z
+date: 2022-07-27T15:47:31.478Z
 tags: 自动化, 深度学习
 editor: markdown
 dateCreated: 2022-07-25T10:54:42.748Z
@@ -44,7 +44,7 @@ pip install -e .
 git clone https://github.com/facebookresearch/demucs.git
 cd demucs
 ```
-## 使用
+### 使用
 
 ```
 demucs tracks [options]
@@ -78,7 +78,7 @@ optional arguments:
 
 ```
 
-### --segment
+#### --segment
 
 Personally recommend not less than 10 (the bigger the number is, the more memory is required, but quality may increase).
 
@@ -86,13 +86,13 @@ Personally recommend not less than 10 (the bigger the number is, the more memory
 
 
 
-### --two-stems
+#### --two-stems
 
 设成 `--two-stems=vocals` 就可以分成人声和其他
 
 
 
-### -n
+#### -n
 
 可用的模型
 
@@ -105,7 +105,7 @@ Personally recommend not less than 10 (the bigger the number is, the more memory
 
 这个默认就好了
 
-## 音频转midi
+## 音频转midi--icassp2022-vocal-transcription
 ### 安装
 这个用的是tf，不过安装起来没啥难度，直接用pip就行，以下是我安装所用的所有代码。
 ```
@@ -126,7 +126,7 @@ python singing_transcription.py -i ../audio/test.wav  -o ../output
   -ot output_type        (optional) Output type: midi or frame-level pitch score(fps) (default: 'midi')
 ```
 
-## AcgmuseParser
+## midi转数字谱--AcgmuseParser
 这是个图形界面工具，没啥好介绍的，选则`midi`文件，然后点转换就行。
 
 # 自动化
