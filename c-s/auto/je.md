@@ -2,7 +2,7 @@
 title: 一套从音频到数字谱的自动化方案
 description: 干啥啥不行，偷懒第一名
 published: true
-date: 2022-07-27T15:38:01.033Z
+date: 2022-07-27T15:44:53.371Z
 tags: 自动化, 深度学习
 editor: markdown
 dateCreated: 2022-07-25T10:54:42.748Z
@@ -196,3 +196,9 @@ python process.py path/to/your/music.mp3
 process_music.cmd music.mp3
 ```
 然后静候一杯水的功夫，就好了。
+
+# 数字谱
+数字谱没有音乐节奏，只有音高，因此不是很正式的谱子，具体细节可以参考这个[README](https://github.com/zytx121/je)
+但即便如此，得到的数字谱还是需要进行人工检查修改，不过基本上都是对的，错误基本上是两种情况
+1. 多个连续的相同音会被转化成一个音
+1. 偶尔会有一些奇奇怪怪的多余的杂音，但基本上没有缺失的音
