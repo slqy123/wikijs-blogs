@@ -2,7 +2,7 @@
 title: 一套从音频到数字谱的自动化方案
 description: 干啥啥不行，偷懒第一名
 published: true
-date: 2022-07-27T15:47:31.478Z
+date: 2022-07-27T15:48:22.025Z
 tags: 自动化, 深度学习
 editor: markdown
 dateCreated: 2022-07-25T10:54:42.748Z
@@ -23,7 +23,7 @@ dateCreated: 2022-07-25T10:54:42.748Z
 
 下面就逐一介绍一下
 
-# 具体介绍
+# 工具介绍
 > 注意：以下所有的git clone 操作请在同一目录下进行，否则后面写自动化脚本的时候就是自找麻烦。
 {.is-info}
 
